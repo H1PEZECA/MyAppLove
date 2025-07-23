@@ -1,21 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\",
+  "WorkspaceRootPath": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|c:\\respositorios - jose\\myapplove\\blazorappmylove\\read.me||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:read.me||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Respositorios - Jose\\MyAppLove\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|c:\\respositorios - jose\\myapplove\\blazorappmylove\\wwwroot\\manifest.webmanifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:wwwroot\\manifest.webmanifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|c:\\respositorios - jose\\myapplove\\blazorappmylove\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\blazorappmylove.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:blazorappmylove.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|f:\\zeca\\repositorio\\documentos\\meusprojetos\\myapplove\\blazorappmylove\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170E10F5-21D3-464E-A12B-1ACFA2320700}|BlazorAppMyLove.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,7 +54,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -41,54 +74,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "READ.ME",
-              "DocumentMoniker": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\READ.ME",
-              "RelativeDocumentMoniker": "READ.ME",
-              "ToolTip": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\READ.ME",
-              "RelativeToolTip": "READ.ME",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-22T19:55:23.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Respositorios - Jose\\MyAppLove\\.gitignore",
-              "RelativeDocumentMoniker": "..\\.gitignore",
-              "ToolTip": "C:\\Respositorios - Jose\\MyAppLove\\.gitignore",
-              "RelativeToolTip": "..\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-22T19:52:40.834Z",
+              "DocumentIndex": 3,
+              "Title": "BlazorAppMyLove",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj",
+              "RelativeDocumentMoniker": "BlazorAppMyLove.csproj",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj",
+              "RelativeToolTip": "BlazorAppMyLove.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T13:44:07.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "manifest.webmanifest",
-              "DocumentMoniker": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\wwwroot\\manifest.webmanifest",
-              "RelativeDocumentMoniker": "wwwroot\\manifest.webmanifest",
-              "ToolTip": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\wwwroot\\manifest.webmanifest",
-              "RelativeToolTip": "wwwroot\\manifest.webmanifest",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-22T19:52:27.253Z",
+              "Title": "App.razor",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:12:38.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\Pages\\Home.razor",
-              "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T19:49:33.947Z",
+              "WhenOpened": "2025-07-23T02:00:52.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:00:44.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-23T01:46:48.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T01:46:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T01:46:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T00:42:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-23T01:14:31.116Z",
               "EditorCaption": ""
             }
           ]

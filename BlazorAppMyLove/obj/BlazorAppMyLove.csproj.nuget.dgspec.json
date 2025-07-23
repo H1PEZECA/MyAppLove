@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj": {}
+    "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj": {}
   },
   "projects": {
-    "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj": {
+    "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj",
+        "projectUniqueName": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj",
         "projectName": "BlazorAppMyLove",
-        "projectPath": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj",
-        "packagesPath": "C:\\Users\\jose.mendes\\.nuget\\packages\\",
-        "outputPath": "C:\\Respositorios - Jose\\MyAppLove\\BlazorAppMyLove\\obj\\",
+        "projectPath": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\BlazorAppMyLove.csproj",
+        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
+        "outputPath": "F:\\ZECA\\Repositorio\\Documentos\\MeusProjetos\\MyAppLove\\BlazorAppMyLove\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jose.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://devops.es.gov.br/DefaultCollection/GESIN/_packaging/feed-gesin/nuget/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -63,13 +63,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )",
+              "version": "[8.0.17, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )",
+              "version": "[9.0.6, )",
               "autoReferenced": true
             }
           },
@@ -87,7 +87,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.17, 8.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -95,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
